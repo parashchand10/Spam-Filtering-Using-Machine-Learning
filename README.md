@@ -4,6 +4,7 @@
 Spam detection is an important application of machine learning and natural language processing (NLP) used to classify messages as Spam or Not Spam (Ham).
 
 The objective of this project is to build a machine learning model that can automatically classify text messages into spam and ham categories using text vectorization techniques and classification algorithms.
+
 ---
 
 ### Problem Statement
@@ -16,6 +17,7 @@ This project aims to:
 2. Reduce unwanted communication
 3. Improve user experience
 4. Demonstrate text classification using machine learning
+
 ---
 
 ### Objective
