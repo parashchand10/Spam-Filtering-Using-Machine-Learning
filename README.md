@@ -1,6 +1,6 @@
 # Spam Filtering Using Machine Learning
 
-<img src="/spam detection.png" alt="Spam" width="900" height="400" />
+<img src="/spam detection.png" alt="Spam" width="900" height="500" />
 
 ### Introduction
 - Spam detection is an important application of machine learning and natural language processing (NLP) used to classify messages as Spam or Not Spam (Ham).
