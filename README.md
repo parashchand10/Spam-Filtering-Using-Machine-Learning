@@ -1,4 +1,4 @@
-# Spam Detection Using Machine Learning
+# Spam Filtering Using Machine Learning
 
 ### Introduction
 - Spam detection is an important application of machine learning and natural language processing (NLP) used to classify messages as Spam or Not Spam (Ham).
